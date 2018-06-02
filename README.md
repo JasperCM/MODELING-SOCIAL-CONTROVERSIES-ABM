@@ -1,6 +1,11 @@
 # MODELING-SOCIAL-CONTROVERSIES-ABM
-EXPLORING THE WAYS CONFLICTING ATTITUDES ARISE FROM CLASHING VALUE-BASED ASSESSMENTS OF A CONTROVERSIAL PROJECT USING AGENT-BASED MODELING
+EXPLORING THE WAYS CONFLICTING ATTITUDES ARISE FROM CLASHING VALUE-BASED ASSESSMENTS OF A CONTROVERSIAL PROJECT USING AGENT-BASED MODELING.
 
+By Nourian Peters, Jasper Meijering & Maarten van de Kamp.
+
+
+This repo contains the netlogo file of the study. It also contains 4 R scripts that have been used for experimentation.
+Please contact the contributors with ang questions.
 
 # WHAT IS IT?
 This explorative model shows how social conflicts emerge and evolve, based on the carbon capture and storage-project in Barendrecht, where increasing local opposition led to an intensified debate and ultimately resulted in cancelling the project because of a lack of support.
